@@ -51,11 +51,11 @@ body{
     margin: 0;
     padding: 0;
     background-image: 
-    url("../MEDIA/Donation\ pic1.jpg");
+    url("../MEDIA/clipart\ donate\ girl\ in\ a\ box.png");
     background-color: #cccccc;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:auto;
 }
 .transbox{
     background-color: rgba(36, 36, 36, 0.397);
